@@ -1,0 +1,5 @@
+- 36K = 6 * 6k (英姐 + 管理費)
+- 12K = Cloud Pod x2, T7 2TB SSD X 2
+- 30K = Next x 20 pairs
+- 2K = Swimming Pool
+- 8k = Car Frame

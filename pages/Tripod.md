@@ -1,0 +1,3 @@
+- Smallrig Fluid video head.
+	- can mount additional accessories with 魔手
+	- use archa swiss and work perfectly with smallrig cage

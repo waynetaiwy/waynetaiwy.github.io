@@ -1,0 +1,3 @@
+- ![image.png](../assets/image_1653757430265_0.png)
+- Need to use the [[KitchenAid]] to grind and stir
+-

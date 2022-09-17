@@ -1,0 +1,4 @@
+- 問題是，out of gamut error:  =>  不同program 有不同奇怪的情況 (p.170)
+- title:: [[LUT Look Up Table]]
+- Project Level LUT
+	- 如果全project同一相機拍，可以選用
