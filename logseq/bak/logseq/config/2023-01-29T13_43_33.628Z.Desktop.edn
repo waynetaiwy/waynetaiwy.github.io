@@ -37,7 +37,7 @@
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
  ;; :publishing/all-pages-public? true
-
+ 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
  ;; value for `:page` is name of page
@@ -53,6 +53,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
+ :default-home {:page "Landing Page"}
 
  ;; Tell logseq to use a specific folder in the repo as a default location for notes
  ;; if not specified, notes are stored in `pages` directory
@@ -166,9 +167,10 @@
 
  :ref/linked-references-collapsed-threshold 50
  :journal/page-title-format "yyyy-MM-dd"
- :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? false}
- :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 1}, :command {:counts 3}, :paint {:counts 0}, :list {:counts 1}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 0}, :italic {:counts 0}, :a-b {:counts 2}, :rotate-clockwise {:counts 0}}
- :favorites []
+ :graph/settings {:journal? true, :builtin-pages? true, :orphan-pages? false, :excluded-pages? true}
+ :mobile/toolbar-stats {:bold {:counts 0}, :brand-youtube {:counts 0}, :checkbox {:counts 0}, :parentheses {:counts 1}, :command {:counts 4}, :paint {:counts 0}, :list {:counts 1}, :link {:counts 0}, :strikethrough {:counts 0}, :code {:counts 0}, :camera {:counts 0}, :rotate {:counts 0}, :tag {:counts 0}, :brackets {:counts 1}, :italic {:counts 0}, :a-b {:counts 2}, :rotate-clockwise {:counts 0}}
+ :favorites ["Landing Page"]
+ :publishing/all-pages-public? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
