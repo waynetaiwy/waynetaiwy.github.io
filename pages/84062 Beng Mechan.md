@@ -1,3 +1,14 @@
-- Student id: 23044853S
+- Student id: 23044853S@common.cpce-polyu.edu.hk
+- wekvM!wrWnnJ5V2
 - My Speed: https://www.speed-polyu.edu.hk/myspeed
+- course materials: https://lms.cpce-polyu.edu.hk/ultra/institution-page
+- Personal Onedrive folder:  https://1drv.ms/f/s!Av_m3HBOT7vNmMV7VL99soBcMQhegw?e=E82tLQ
+- [[Hung Hom Campus]] and [[West Kowloon Campus]]
+- target: each course 3 hours lesson, 4 hour revision  ->   49 workhour per week
+- ![image.png](../assets/image_1693857457654_0.png){:height 343, :width 397}
+-
+-
+-
+-
+-
 -

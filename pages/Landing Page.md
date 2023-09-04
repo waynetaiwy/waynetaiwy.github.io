@@ -12,4 +12,6 @@ public:: true
 - 用 [[Logseq]] 來學習、用 [[Microsoft To Do]] 來自我打氣和一步步發展
 - [[課題的分離]] 是讀完 Soci 之後 一個新的得著。 嘗試認識多些的一部份
 - 情感上，認識2018 年 聽 [[Lorde]] 是一個美學的轉捩點： 「啊，原來關心自己是很重要、很有型的事!」
+- [[2023-09-01]] Marks a new chapter in life: 2 year [[84062 Beng Mechan]] course
+-
 -
