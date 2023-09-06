@@ -14,4 +14,6 @@ public:: true
 - 情感上，認識2018 年 聽 [[Lorde]] 是一個美學的轉捩點： 「啊，原來關心自己是很重要、很有型的事!」
 - [[2023-09-01]] Marks a new chapter in life: 2 year [[84062 Beng Mechan]] course
 -
+- 2009 - 2023 （15 years living) in [[Classical Garden]]
+-
 -
