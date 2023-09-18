@@ -1,0 +1,10 @@
+file:: [Graduation_Requirement_Checklist_for_84062_84063_(2023_cohort)_1694015976101_0.pdf](../assets/Graduation_Requirement_Checklist_for_84062_84063_(2023_cohort)_1694015976101_0.pdf)
+file-path:: ../assets/Graduation_Requirement_Checklist_for_84062_84063_(2023_cohort)_1694015976101_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: purple
+  id:: 64f8a714-aeaa-4127-b527-bfa466e669c8
+  hl-type:: area
+  hl-stamp:: 1694017298773

@@ -1,0 +1,10 @@
+- Compatible tripods and accessories
+	- https://www.manfrotto.com/hk-zh/catalogsearch/result/index/?product_list_limit=24&q=RC2
+	- Befree Advanced: Aluminium or Carbon Fibre
+	- Joystick hand gimbal:
+		- 324RC2 (holds 4kg) 鎂合金Joystick握柄球型雲台
+		- 327RC2  鎂合金Joystick握柄球型雲台  hold 6kg
+		- 322RC2   水平手柄控制球形雲台
+			- 水平手柄可快速調節
+			- 阻尼控制鎖定
+		- BMPCC plate alone is compatible with arca swiss system

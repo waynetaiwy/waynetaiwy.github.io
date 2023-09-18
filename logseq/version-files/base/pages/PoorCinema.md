@@ -1,0 +1,20 @@
+- [[導演]] 導演的工作是去拍事件出來，不是照跟劇本做事
+	- 範疇：
+		- 劇本分析
+		- [[Blocking  場景調度]] 人物的走位可以表演出故事.  以物喻景
+- [[開鏡準備]]
+-
+- Joseph: 肥仔
+- Emily: 女子彈彈彈
+- Jays: 廣告界文青!?
+- Rem Fung  [[元朗 Yuen Long]]洪水橋 (渣車),
+- Joanna Pang[[將軍澳 Tseung Kwan O]] ,
+- Jason Lau Wai Kit[[Tsing Yi 青衣]],
+- 阿義 大埔,
+- NEM 大角咀@geniusbarsolution 洋松街,
+- JEM 太子區
+- [[Exercise 1 - 浪子回頭]]
+-
+-
+-
+-

@@ -1,0 +1,4 @@
+- iPhone  13 mini: Serial No. WKT9XHNXRJ
+	- Purchased second hand on 2023-09-04
+	- IMEI no.:  35 292959 963265 4
+	-

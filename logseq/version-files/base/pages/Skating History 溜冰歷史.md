@@ -1,0 +1,2 @@
+- SEBA 和 FR1 是同系，但後來分裂了。 Micro鞋就桌嘉袁Sir 和 屯門Weskates在賣
+- ![image.png](../assets/image_1652776970583_0.png){:height 400, :width 400}

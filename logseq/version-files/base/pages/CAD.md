@@ -1,0 +1,4 @@
+- Reason for CAD:
+	- Repeated results
+	- , improve documentation communication
+	- contribute toward a manufacturing design database

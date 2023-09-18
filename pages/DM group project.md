@@ -1,0 +1,29 @@
+- Reduce dizziness. Because when people watch movie, their sensory/ gyro receptor in their medulla don't receive the same stimulus.
+- Make smooth video, camera
+	- Passive method to increase inertia of moment and inertia. Reduce gittering in all six axis.
+	- portability:
+	- generality.
+	- Primarily increase moment inertia.   Planetary structure
+	- Niche Market, B-B business professional equipment
+	- low friction bearing.  reduce random
+	- magnified in the 3d sense. Angular tearing .
+	- weight to be evenly distributed. density of parts has to be constant
+	- branding and instruction and logos, symbols
+	-
+	-
+	-
+	-
+	- can be devided into three parts
+		- -handle
+		- baseplate for mounting camera
+		- counterbalance
+		- screws
+		-
+		- Common parts not complexed :
+			-
+			-
+			-
+			-
+		- how is bearing made
+		-
+		-
