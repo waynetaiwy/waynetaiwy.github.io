@@ -7,6 +7,8 @@
 - [[Hung Hom Campus]] and [[West Kowloon Campus]]
 - [[84062 whole course structure]]
 -
+- [[Consultation Hours]]
+-
 - target: each course 3 hours lesson, 4 hour revision  ->   49 workhour per week
 - ![image.png](../assets/image_1694075315326_0.png)
 -
