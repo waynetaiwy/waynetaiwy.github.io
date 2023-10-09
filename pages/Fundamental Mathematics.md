@@ -2,7 +2,6 @@ familiarity-out-of-7::  1
 time-to-need-PC:: N/A
 alias:: SEHS2339
 course-outline:: https://1drv.ms/b/s!Av_m3HBOT7vNmax5hQo-9k6amqpl6A?e=ZZC09y
-
 - time-venue:: Tuesday: 19 - 22,  HHB - UG09
   Lecturer: Anthony lam   https://wa.me/85267212983
 - Week 9 另外揀日子做mid-term

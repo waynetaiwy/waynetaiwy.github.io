@@ -1,0 +1,19 @@
+- Human forgets how much their life are guided by the stories they believed in. We do not have a habit to examine and correct our past beliefs when new evidence comes to us. We only seek to twist our story a bit to accommodate the new information because it will be a path of least resistance for us. Coherent stories allow us to feel confident in planning how to spend our limited future.
+	- Trained storytellers reveals the eloquent events surrounding the reader.
+	- Writing fictions made Briony proud like a craftsman. Watching Cecilia unbuttons before Robbie at the fountain thrilled her as the Romance of breaking taboo. She fallen in love with the discovery that "Cecilia and Robbie are actually not enjoying the encounter" come as forgetable impurities in the story.
+	-
+	- Woes in it is that
+	-
+	- Thrown:
+		- Human tells story to themselves to live
+		- Multiple players and natural force shape the things besides us, but in unity they are sensible and coherent to us.
+		- Stories unite people.  Briony strengthened her bond with Lola as she told her story. Her story excites her and leave a legacy. That is what devotes her to sit in the desk and write.
+		- But she cannot gets truth and power at the same time. If she disclose that she said things she did not believed to be true, reprecursions will spread
+		- to her cousins.
+		- McEwan intended to make a book for authors and discuss consequence and hidden danger of storytelling with them.
+		-
+		-
+		-
+		- The Homo Spaien.    Rhetoric has combined and facinated people
+		-
+		-

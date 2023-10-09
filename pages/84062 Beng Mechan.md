@@ -10,10 +10,9 @@
 - [[Consultation Hours]]
 -
 - target: each course 3 hours lesson, 4 hour revision  ->   49 workhour per week
-- ![image.png](../assets/image_1694075315326_0.png)
--
--
+- ![image.png](../assets/image_1696560070263_0.png){:height 451, :width 413}
 -
 - [[Row Echelon Form]] R.E.F. Form: 斜角是 1.   斜角的右上方 是wildcard (*).    左下方一定要是零
 	- [[Reduced Row Echelon Form]]  alias: RREF form 斜角右上方，左下方都是零。
+-
 -

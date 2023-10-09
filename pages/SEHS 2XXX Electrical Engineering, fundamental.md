@@ -1,7 +1,6 @@
 familiarity-out-of-7:: 5
 time-to-need-PC:: N/A
 alias:: Fund. EE
-
 - 37460487.  KC WONG 王家聰.
 - Laboratory Manager of [[HHB-801 Electrical Vehicles and Electrical Engineering Laboratory]]
 - ### <kc.wong@cpce-polyu.edu.hk>

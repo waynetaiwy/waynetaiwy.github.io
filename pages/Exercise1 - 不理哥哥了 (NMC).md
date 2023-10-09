@@ -1,6 +1,5 @@
 public:: true
 title:: Exercise1 - 不理哥哥了 (NMC)
-
 - Englisht Title: No More Chit-chatting
 - [[PoorCinema]] Exercise One.
 - Written by 阿義.  [[2022-05-25]]

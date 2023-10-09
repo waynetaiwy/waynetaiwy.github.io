@@ -1,16 +1,13 @@
 - 1. Why is this movie chosen? How is the movie relevant to human growth, human development and/or human nature?
 	-
 	- When a life transforming opportunity appear before your eye, what would you do?
-		- A wonder appear before your eye, essentially creating a new society before your hand, it will forever be remembered to be created by you. What would you do
-	- University students are thinking what they want to become in the future.
+		- A wonder appear before your eye, essentially creating a new society before your hand, it will forever be remembered to be created by you. What would you do?
+	- University students are thinking what they want to become in the future. Everyone thinks "they have the potential"
 		- Work friends? who will support you?
-	-
 	- Four characters choice towards it
 		- Mark - defer graduation to fall into it
 		- Tyler brothers - upper class member, eager to preserve "Harward Gentleman" title, such that slack. Failed to comprehend how much they have lost
 		- Elcardo - Money and fame is not everything. Hardwork is important, longterm cooperation. honour / to be a solid person is important. So he will continue to work with Mark and not betray
-	-
-	-
 	-
 	- Throw away idea:
 		- Facebook and "start-up" mindset still hold strong societal.recognition in the world. This is like an overdose version of it. *Exclusivity*/ *Networking*
@@ -22,25 +19,26 @@
 	- How the first girl deal. By the first girl friend of him: cut him off. World is very big, no need to align yourself with him anymore.
 	- Elcardo wants the joy of doing things part by part. Pursuading. Mark  believes his capacity is already out-of-the-scale, his job is to reap the merit and have people worship him.
 	-
-- 2. Summarize the plot of the movie in your own words in a coherent and comprehensible manner.
-	- Mark is an arrogant and hateful programmer. He doesn't know why people are not respecting him more. They don't know the power of coding yet. Instead of self-pity, in the hard times, he won't change his personaility, instead he will show them his true colors. Make people bow to his geniusity.
-	- He will get-hands-dirty and have the brain. So he gained the attraction from Tyler brother. Tyler brother is the top player in the Harvard/ upper class social circle. In Harvard, they are sharpening their saw, strengthening their connections with other prospective students. So they can sustain their family empire better. They like their current life being "Harvard Gentleman"
-	- Tyler brother pitched a preliminary networking site idea to Mark. They did not know how much Mark is eager to break into fame. They underestimated his talent and thought becoming a "trusted engineer" is what Mark will satisfy. But Mark at the early stage decided to deceive them.  Tyler brother never encounter such person before. Everyone they met before wants something from them. But Mark only needed their idea and nothing more.
-		- At this point, the audience is light heartened, they still like the under-dog Mark. Tyler loses in the battle, but landed on feet. Comfortable life has slowed their action.
-	- Educardo learnt about this incidence of Mark betrayed Tyler later on. He was shocked, but believe in their bond. He sees Mark as a talent that can rise. So he forgive Mark attitude and wish that he will stop stupid move
-	- Climax of the film. Mark finds facebook possibility to impact everyone in every country. Only him and other trust fund big boy can nurture its full potential. At the end Educardo and him is different. Educardo is not as desperate as him to build the internet empire. So he made in a second the decision to sabotage him.
-	- Mark loses respect from everyone in-the-know (the lawyers, ex-girlfriend). He owns the empire but he is lonely. Thrill of growth has ended. The ex insulted him so much in the past is using facebook. At heart he knows he has done unhonourable things that cannot be counterbalanced by his technical ability. He is again confused.
-	-
+- {{renderer :wordcount_}}
+	- 2. Summarize the plot of the movie in your own words in a coherent and comprehensible manner.
+		- Harvard Computer Science Student Mark is an arrogant and hateful programmer. He thinks Harvard people should respect him more. They don't know how powerful coding is. Instead of self-pity, in his hard times, he won't change his personaility, instead he will show them his true colors. Make people bow to his geniusity.
+		- He will get-hands-dirty and He has the brain. So he gained attention from Tyler brother. Tyler brother is the top player in the Harvard/ upper class social circle. In Harvard, they are sharpening their saw, strengthening their connections with other prospective students. So they can sustain their family empire better. They like their current life being "Harvard Gentleman"
+		- Tyler brother pitched a preliminary networking site idea to Mark. They did not know how much Mark is eager to break into fame. They underestimated his talent and thought becoming a "trusted engineer" is what Mark will satisfy. But Mark at the early stage decided to deceive them.  Tyler brother never encounter such person before. Everyone they met before wants something from them. But Mark only needed their idea and nothing more.
+			- At this point, the audience is light heartened, they still like the under-dog Mark. Tyler loses in the battle, but landed on feet. Comfortable life has slowed their action.
+		- Educardo learnt about this incidence of Mark betrayed Tyler later on. He was shocked, but believe in their bond. He sees Mark as a talent that can rise. So he forgive Mark attitude and wish that he will stop stupid move
+		- Climax of the film. Mark finds facebook possibility to impact everyone in every country. Only him and other trust fund big boy can nurture its full potential. At the end Educardo and him is different. Educardo is not as desperate as him to build the internet empire. So he made in a second the decision to sabotage him.
+		- In the court cases, Mark has to reluctantly admit he is not up to society's moral standard, and therefore lawyers will be deciding what retributions he has to give to the brothers / Elcardo as he does. His past "gaslighting" tactics have failed.
+		- Mark loses respect from everyone in-the-know (the lawyers, ex-girlfriend). He owns the facebook empire but he is lonely. Thrill of growth has ended. The ex insulted him so much in the past is using facebook. At heart he knows he has done unhonourable things that cannot be counterbalanced by his technical ability. He is again confused.
+		-
 -
 -
 - collapsed:: true
-  3. How are the characters/protagonists presented?
+  3. How are the characters/protagonists presented?\
 	- Mark as. Angry nerd, intelligent, has a tendency to ride over people (Tyler brother) from early.  He tricked and stole the Tyler brother's idea. Viewers still have some compassion for him at that point. But his disregard of others.
 	- Educardo and his peers. Innocent, wanting recognition from the social circle. unfocused to break out as the top top top business person.
 	-
-- collapsed:: true
-  4. What are the major themes of the movie? How are the themes presented successfully or unsuccessfully in the movie, in your opinion?
-	- you don't get to 500 million friends without making a few enemies
+- 4. What are the major themes of the movie? How are the themes presented successfully or unsuccessfully in the movie, in your opinion?
+	- you don't get to 500 million friends without making a few enemies Created a mess around him, but he is not a very talkative guy in the movie. So its not easy to grasp Marks train of thought.
 	-
 - collapsed:: true
   5. Any fictional element(s) that works particularly well in this movie? And why?

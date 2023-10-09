@@ -1,0 +1,5 @@
+- p. 450:
+	- "It was her sister with Robbie. Thier Love.Neither Briony nor the war has destroyed it. This was what soother her as she sank deeper under the city. How Cecilia had drawn hin to her with her eyes. That tenderness in her voice when she called him back from his memories, from Dunkirk, or from the roads that led to it.
+- Quality of voice contains the message, albeit intangible, had travel past the England coast and three years time, calling out Robbie to have a place call home.
+- The lengthy but
+-

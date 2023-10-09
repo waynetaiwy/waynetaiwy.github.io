@@ -1,0 +1,7 @@
+- 1)      Submit your first assignment draft via Moodle ([https://moodle.cpce-polyu.edu.hk/](https://moodle.cpce-polyu.edu.hk/)) to the Language Instructor (LI) during **2 Oct – 6 Oct 2023**.  You will later receive feedback from the LI on your draft, and then you can register for the consultation session by choosing your preferred timeslot on Moodle.
+-
+- 2)      Refer to the EW User Guide for Students ([http://it-training.cpce-polyu.edu.hk/mod/book/view.php?id=1285](http://it-training.cpce-polyu.edu.hk/mod/book/view.php?id=1285)) for details.  Kindly note that the academic year, semester, and the subject group are just examples.  Please choose your own subject and group in the system, and you will be able to view the urgent contact email of your LI under the “Latest Announcements” in due course.
+-
+- 3)      Write down **the name of your LI on the cover page of your writing assignment**. As your group is assigned with more than one LI, please refer to the attached student list *(2nd attachment) *for your own LI.
+	-
+	- | ### **Staff Mr Ivan K H Au (**

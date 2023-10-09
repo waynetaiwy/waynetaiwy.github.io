@@ -1,0 +1,45 @@
+- {{renderer :wordcount-page_, 1070}}
+	- {{renderer :wordcount_}}
+		- Foreword: . . .
+			- Atonement (2001) by Ian McEwan discuss how making up stories and cowardice haunts the naive clever protagonist Briony until her later life. The book cautions reader gifted with storytelling skills: despite the admiration and fulfilment creative writing can bring to its writers, they must see storytelling as a serious exercise.
+		- The main plot twist is 13-year-old Briony Tallis's testification that Robbie Turner has been disguising as a bright young-men and raped Briony's cousin Lola after a big family union gathering. . .
+			- She speaks about how 'apparent' Robbie was the sinner she caught in-the-act in the dark,  because she also earlier in the morning glimpsed how Robbie had harassed and assaulted sexually her unmarried sister Cecilia in a quiet corner of the house. Her saying was trusted immediately by the Tallis's family elders. Cecilia and Robbie's defence of their encounter and denial of the accusation was ignored.
+		- With immense hate Robbie is handcuffed to the judiciary. . .
+			- . . .Over there, the establishment is already pre-occupied in preparing for a coming national war with Adolf Hitler. They are eager to showcase their support for the senior civil servant, i.e. Jack Tallis and Uncle of Lola, therefore Robbie was cruelly sentenced to jail in poor condition designed for society's worst offenders.
+		- The book then gives a painstaking account of innocent Robbie's conscription to Northern France for WWII. . .
+			- He is assigned to the infantry to deter Germanys ultimate invasion to the UK. He must put every   resentment over Tallis family aside and focus on slouching to Dunkirk. He has not much dignity left other than surviving and following orders.
+		- And after Robbie imprisonment, Briony's family members have moved on. Only Briony still vividly recalls the incidents and follows the aftermath. Briony only vaguely understands these current attitudes and punishment to sex-crime offenders. The book writes: "". She in her thirteen has the stupidity of not understanding how another **real** human being can suffer from her indictments. Making clear indiction made her felt welcomed as a grown adult.
+		-
+		- on [[Central Topic in Atonment: storytelling]]
+			- Human does not notice how much their life are guided by the stories they believed in. They do not have a habit to examine and correct our past beliefs when new evidence comes to us (Harari, 2018). It is a path of least resistance for them. We only seek to twist our story a bit to accommodate the new information. Coherent stories gives us the confidence to spend our limited time ahead.
+				- Trained storytellers reveals the eloquent events surrounding the reader.
+				- Writing fictions made Briony proud like a craftsman. Watching Cecilia unbuttons before Robbie at the [[fountain, incident]] thrilled her as the romance of breaking taboo. She fells in love with the discovery. Indeed unlike her ideal imagination, Cecilia and Robbie are not enjoying the physical contact at that moment. That impurities just slides and rewritten as "Robbie" is predating and deceiving Cecilia. Briony goes on the screenwriter role and casually continue her prejudice of Robbie as a sexual predator.
+			- The guilt has greatly altered Briony self-image and made her to have a career as a nurse. Hospitals operates in a semi-military style: nurses have stringent codes of conduct to follow. Briony feels calm with this untraditional career choice (more a blue collar job), as the job pushes her to become 1. stronger mentally and physically,  and 2. more comparable to Cecilia who is respectable and already a nurse. But amidst how determined she thought she already was,  wartime caretaking of wounded soldiers still catch and shake Briony. The bloody scene in the ward reflects how Robbie is hurt in the frontline. Briony's indictment has led to this; it was avoidable if Briony thinks through her responsibility.
+			- Conclusion
+			  heading:: true
+				- It was revealed in the last chapter that the book was written and rewritten by Briony as a historical account out of the tragic ending. Briony claims finishing this book out is the best tribute to Cecilia and Robbie, because they were dead after WWII and have no children. Cecilia in reality never reunify with Robbie because Robbie died of illness in the warfront in France. Briony decides to use her writer privilege to give a wholesome ending to the incident: she sets that Cecilia eventfully reunion with Robbie in London, and they got a chance to hear Briony saying sorry to them. The happy ending and eloquent style of the book manifests Briony's utmost wish to recreate a bright life for the couple. In that way she receives, not unashamedly, a spiritual atonement.
+			-
+	-
+	-
+- [[draft 1 submission requirement, atonement]]
+- {{renderer :wordcount_}}
+  id:: 651ce93f-1dac-482e-8cbc-42fbc2778843
+	-
+	- [[setting the war history background]] [[Ian McEwan]]
+	- Briony is the late children and hence received lots of loved. She was home-schooled and prepared to enter Cambridge.  At the age of thirteen she has the ambivalent status of being both a child and an adult. Whether to prepare War or 媛靖 has become societal most important issue, this made the adults been nervous really, and make them a bit cruel in challenges over their.
+		- -   Cecilia's sensibility developed during her Cambridge schooling becomes school becomes not important
+		- -   Robbie Turner's dependency on the family made him already a stained figure.
+		- -  Briony should continue her private education which has given the family pride.
+	- The sudden raping incident has endanger the family's status in society.
+	- 正如Briony决定撒的一个谎，彻底改变了Cecilia和Robbie的命运。当然如此彻底的成功，还要归功于现实事件的推波助澜——第二次世界大战。
+		- [Ruby茹茹](https://www.zhihu.com/people/ru-ru-40-15)  https://zhuanlan.zhihu.com/p/534516538
+	- Meaning of word: the replenishment for sin conducted, so as to reunify with the culprit.
+		- Briony procrastinates and never confess her wrongdoing to her parents. Her letters to Cecilia have never been replied, she used this as an excuse to wait and wait for new things to happen before she makes the confession.
+		- She lived in central London for long time. In her eighties now she reflected the incidence had follow her to date,
+		- had just knew that she will soon suffer dementia, goes to a birthday party to the [[mansion (at last becomes a hotel), in atonement]] she lived in the start of story.
+		-
+		-
+	- [[Atonement's Significant quotes and style]]
+-
+-
+-

@@ -1,5 +1,4 @@
 familiarity-out-of-7:: 2
-
 - CAD/CAE Workshops (wk3,6,7,9): F2F
   Group A01A: 9:00 –10:30 Tuesdays (HHB1208)
 - time-venue:: Monday 9-12 HHB-705

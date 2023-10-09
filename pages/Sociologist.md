@@ -1,3 +1,2 @@
 alias::  Sociology Scholar
-
 -
