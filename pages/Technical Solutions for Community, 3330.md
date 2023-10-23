@@ -1,0 +1,1 @@
+- [SEHS3330 Designing Technical Solutions for the Community (20230918).pdf (cpce-polyu.edu.hk)](https://staffweb.cpce-polyu.edu.hk/sdsehs/SDF/SEHS/SEHS3330%20Designing%20Technical%20Solutions%20for%20the%20Community%20(20230918).pdf)

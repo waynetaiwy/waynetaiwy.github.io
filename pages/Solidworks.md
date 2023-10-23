@@ -1,0 +1,2 @@
+- [Certified SOLIDWORKSAssociate (CSWA) – Academic in mechanical design](https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design-academic-version).
+-
